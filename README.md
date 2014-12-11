@@ -1,5 +1,7 @@
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/flashadvocate/TrinityCore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Introduction
 
